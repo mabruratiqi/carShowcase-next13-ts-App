@@ -5,7 +5,6 @@ import CustomButton from './CustomButton'
 function Hero() {
 
     const handleScroll = () => {
-        alert('ddd');
     }
 
   return (
